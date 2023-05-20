@@ -19,4 +19,4 @@ Lapage, une librairie physique et depuis 2 ans un site de vente en ligne égalem
 * LeRay_Adeline_1_Notebook_Parties1&2-Nettoyage_112022.ipynb : Notebook python - Nettoyage des données
 * LeRay_Adeline_2_Notebook_Partie3-Analyses_112022.ipynb : Notebook python - Analyse exploratoire des données
 * LeRay_Adeline_3_Notebook_Partie4-Tests statistiques_112022.ipynb : Notebook python - Analyse bi-variée et tests statistiques
-* LeRay_Adeline_4_Présentation_112022.pdf : Présentation du détail du nettoyage des données et restitution de l’analyse : les chiffres clés, KPI, graphiques générés, corrélations calculées, etc.
+* LeRay_Adeline_4_Présentation_112022.pdf : Présentation du nettoyage des données et restitution de l’analyse : les chiffres clés, KPI, graphiques générés, corrélations calculées, etc.
