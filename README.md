@@ -1,6 +1,6 @@
 # Analyser les ventes d'une librairie
  
- _Projet réalisé dans le cadre de la formation Data Analyst d'OpenClassrooms_
+ _Projet réalisé dans le cadre de la formation Data Analyst d'OpenClassrooms (Projet n°6 - Nov. 2022)_
  
 ## Compétences acquises
 * Réaliser une analyse bivariée pour interpréter des données
